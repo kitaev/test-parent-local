@@ -1,13 +1,13 @@
 [map "e0b236a9-d155-3439-8b00-3ea931d7af8e"]
 	object = eb29578a6fa0508ec2e23e60bb2b61f20fd1feaf
 	type = include + expand tree
-[map "9e4a398e-9880-3e36-9be0-ddda8dcf6106"]
-	object = 82b6d042e5af4e8f4d9f2149e38f04ff85b9c3ce
-	path = module1
-	type = expand module
 [map "f07c1b5a-6735-3bf4-8cd6-39ba251dd2e3"]
 	object = 82b6d042e5af4e8f4d9f2149e38f04ff85b9c3ce
 	path = module2
 	type = expand module
 [object]
 	state = initial
+[map "3f698fdf-dc07-3314-befd-5bb943ed5cb9"]
+	object = a66edb891fa6fab8e00c0b1a67873a2e00023225
+	path = module1
+	type = expand module
