@@ -1,3 +1,4 @@
 [core]
         test = true
+        test = true
 	enabled = false
