@@ -12,11 +12,13 @@
 	pull = squash never
 	ref = if refs/heads/main sync refs/heads/main
 	url = agnostic://gh/538239537
-[map "1fb3a722-695c-3090-8912-f62baf7fef4a"]
+[map "174e6bda-b9fa-3196-8ca9-2edeaec52c0e"]
 	object = 8f4ff8c8db044f42c495cbd6dcbba2a7ed01cde8
 	path = module
+	stage = sync
 	type = extract module
-[map "422b49de-0d5d-3bd6-af21-7eb950ab82f8"]
+[map "750dc344-cfea-3bab-939e-3d206a180a25"]
 	object = 8fa34f6711d3aeaecf33509d3c0d47d28c238113
 	path = module1
+	stage = sync
 	type = extract module
