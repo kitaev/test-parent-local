@@ -1,9 +1,0 @@
-[map "ef87c3a7-5af2-33a4-8d99-68194e05c73d"]
-	object = 454b45af0004eedad78834036654b22fcb8dc632
-	type = include + expand tree
-[map "c07e0669-79e4-3632-b150-9c23f5beb997"]
-	object = b765ac1e862243781c62bba184b1cd8b5e38997f
-	path = module
-	type = expand module
-[object]
-	state = initial
